@@ -1,0 +1,296 @@
+.assetdash-wrapper{
+  background-image: url("./assets/images/assetdash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(36,35,40,255);
+  background-position: 50%;
+  display: flex;
+  width: 100%;
+  min-height: 95vh;
+}
+
+.swaprewards-wrapper, .auctions-wrapper{
+  background-color: $lightblue-theme;
+  width: 100%;
+  min-height: 93vh;
+  padding: 50px 10px 50px 10px;
+}
+
+.swaprewards-wrapper{
+  padding-right: 25px;
+
+  .boost-wrapper{
+    position: relative;
+    max-width: 800px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+
+    .edit-token2{
+      position: absolute;
+      right: -25px;
+      top: 20px;
+      color: $blue-theme;
+
+      .tabler-icon-edit{
+        width: 25px;
+        height: 25px;
+      }
+    }
+  }
+
+  .element-boost{
+    width: 100%;
+  }
+
+  .tier-list, .element-boost{
+    background-color: $red-theme;
+    border: 5px solid $blue-theme;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    max-width: 800px;
+    margin-top: 5px;
+
+    .boost-display{
+      height: 25px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-width: 100%;
+    }
+
+    input{
+      background-color: white;
+      margin-right: 5px;
+      border: 1px solid $blue-theme;
+      border-radius: 5px;
+    }
+
+    select{
+      background-color: $blue-theme;
+      color: $white-theme;
+      border: 1px solid black;
+      border-radius: 5px;
+      text-indent: 5px;
+      height: 35px;
+      width: 80%;
+      display: flex;
+      justify-content: center;
+      text-align: center;
+      align-items: center;
+
+      option{
+        background-color: $white-theme;
+        color: black;
+        border: 1px solid black;
+        border-radius: 5px;
+        text-indent: 5px;
+        height: 35px;
+      }
+    }
+  }
+
+  .reward-list-wrapper{
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
+    
+
+    .rewardlist{
+      display: flex;
+      flex-direction: column;
+      border: 5px solid $blue-theme;
+      border-radius: 10px;
+      padding: 10px;
+      background-color: $red-theme;
+      width: 100%;
+      margin-top: 5px;
+
+      .token-wrapper{
+        position: relative;
+
+        .edit-token{
+          position: absolute;
+          right: -33px;
+          top: 4px;
+          color: $blue-theme;
+        }
+      }
+
+
+      .headline, .token-row, .summary{
+        display: flex;
+        flex-direction: row;
+        background-color: $white-theme;
+        height: 25px;
+        
+        .token-cell-header{
+          width: 20%;
+          display: flex;
+          align-items: center;
+          padding: 0 5px;
+          justify-content: center;
+        }
+
+        .token-cell{
+          width: 20%;
+          display: flex;
+          align-items: center;
+          padding: 0 5px;
+          white-space: nowrap; /* Prevents breaking words into new lines */
+          overflow: hidden;    /* Hides overflow content */
+          text-overflow: ellipsis; /* Adds ellipsis (...) for overflow text */
+
+          button, a{
+
+            &:hover{
+              text-decoration: underline;
+              text-decoration-color: $red-theme;
+              text-underline-offset: 3px;
+            }
+          }
+        }
+
+        .tc-index{
+          display: flex;
+          align-content: center;
+          justify-content: space-around;
+
+          span{
+            height: 18px;
+          }
+
+          button{
+            height: 18px;
+          }
+        }
+
+        .tch-price{
+          gap: 1rem;
+
+          button{
+            display: flex;
+          }
+        }
+
+        .tc-amount{
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .tc-value{
+          justify-content: end;
+        }
+
+        &:hover{
+          background-color: rgba(255,255,255,0.8);
+        }
+      }
+
+      .edit-wrapper{
+        display: flex;
+        flex-direction: column;
+        background-color: $red-theme;
+        border: 2px solid $red-theme;
+
+        .edit-row{
+          display: flex;
+          flex-wrap: wrap;
+          flex-direction: row;
+          background-color: $red-theme;
+          padding: 1px;
+  
+          input{
+            padding: 1px;
+            margin: 1px;       
+            background-color: $white-theme;
+            width: calc(20% - 2px);
+            text-indent: 5px;
+          }
+
+          div{
+            padding: 1px;
+            margin: 1px;       
+            background-color: $white-theme;
+            width: calc(20% - 2px);
+            text-align: center;
+            display: flex;
+            justify-content: space-around;
+
+            button{
+              width: 50%;
+            }
+
+            button:first-child{
+              border-right: 1px solid $red-theme;
+            }
+          }
+        }
+      }
+
+      .headline, .summary{
+        // font-size: larger;
+      }
+
+      .headline{
+        border-radius: 5px 5px 0 0;
+        border-top: 1px solid black;
+        border-left: 1px solid black;
+        border-right: 1px solid black;
+        
+
+        div{
+          border-left: 1px solid black;
+
+          &:first-child{
+            border-left: 1px solid transparent;
+          }
+
+          &:last-child{
+            border-right: 1px solid transparent;
+          }
+        }
+      }
+
+      .token-row{
+        border-left: 1px solid black;
+        border-right: 1px solid black;
+
+        div{
+          border-top: 1px solid black;
+          border-left: 1px solid black;
+
+          &:first-child{
+            border-left: 1px solid transparent;
+          }
+
+          &:last-child{
+            border-right: 1px solid transparent;
+          }
+        }
+      }
+
+      .summary{
+        border-radius: 0px 0px 5px 5px;
+        border-bottom: 1px solid black;
+        border-left: 1px solid black;
+        border-right: 1px solid black;
+
+        div{
+          border-top: 1px solid black;
+          border-left: 1px solid black;
+
+          &:first-child{
+            border-left: 1px solid transparent;
+          }
+
+          &:last-child{
+            border-right: 1px solid transparent;
+          }
+        }
+      }
+    }
+  }
+}
