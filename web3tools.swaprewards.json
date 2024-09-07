@@ -1,0 +1,2213 @@
+[{
+  "_id": {
+    "$oid": "669d1024d564062c2116bf17"
+  },
+  "index": 1,
+  "ca": "3B5wuUrMEi5yATD7on46hKfej3pfmd7t1RKgrsN3pump",
+  "ticker": "BILLY",
+  "rewardAmount": {
+    "tier5": 0.055,
+    "_id": {
+      "$oid": "66ca4522ff0c8619c5f136c5"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0.017,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 0.27533,
+    "tier8": 0.55
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.020187605578860443,
+  "url": "https://birdeye.so/token/3B5wuUrMEi5yATD7on46hKfej3pfmd7t1RKgrsN3pump?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669d2dced564062c2116bf49"
+  },
+  "index": 2,
+  "ca": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+  "ticker": "BONK",
+  "rewardAmount": {
+    "tier5": 250,
+    "_id": {
+      "$oid": "66ca452cff0c8619c5f136ca"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 1250,
+    "tier8": 2500
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.00001624005868691601,
+  "url": "https://birdeye.so/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669d2e31d564062c2116bf57"
+  },
+  "index": 3,
+  "ca": "C1aUK5VpDoEKqsvDpc7gQf1HVdgbrw3kwXE7KEbJpump",
+  "ticker": "VENCE",
+  "rewardAmount": {
+    "tier5": 12.15,
+    "_id": {
+      "$oid": "66ca4879ff0c8619c5f13822"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 60.77,
+    "tier8": 121.55
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.0004976106431936808,
+  "url": "https://birdeye.so/token/C1aUK5VpDoEKqsvDpc7gQf1HVdgbrw3kwXE7KEbJpump?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e90a63432dd2e401ae57f"
+  },
+  "index": 4,
+  "ca": "2emYMetySwE7Xh6qrG1AwAQ3TDvrLkUSpSZ5AjcWCc7B",
+  "ticker": "L",
+  "rewardAmount": {
+    "tier5": 22.5,
+    "_id": {
+      "$oid": "66bc58694857e77800382ab3"
+    }
+  },
+  "boosted": true,
+  "active": false,
+  "price": 0.00003714013689373287,
+  "url": "https://birdeye.so/token/2emYMetySwE7Xh6qrG1AwAQ3TDvrLkUSpSZ5AjcWCc7B?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e90d33432dd2e401ae58b"
+  },
+  "index": 5,
+  "ca": "6CNHDCzD5RkvBWxxyokQQNQPjFWgoHF94D7BmC73X6ZK",
+  "ticker": "GECKO",
+  "rewardAmount": {
+    "tier5": 60,
+    "_id": {
+      "$oid": "66ca4650ff0c8619c5f13734"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 300,
+    "tier8": 600
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.0000121072875,
+  "url": "https://birdeye.so/token/6CNHDCzD5RkvBWxxyokQQNQPjFWgoHF94D7BmC73X6ZK?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e91213432dd2e401ae597"
+  },
+  "index": 6,
+  "ca": "AHW5N8iqZobTcBepkSJzZ61XtAuSzBDcpxtrLG6KUKPk",
+  "ticker": "BENDOG",
+  "rewardAmount": {
+    "tier5": 0.0316,
+    "_id": {
+      "$oid": "66ca4510ff0c8619c5f136bb"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 0.158,
+    "tier8": 0.31666
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.011792637578023549,
+  "url": "https://birdeye.so/token/AHW5N8iqZobTcBepkSJzZ61XtAuSzBDcpxtrLG6KUKPk?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e91483432dd2e401ae59b"
+  },
+  "index": 7,
+  "ca": "4QQV4LQUUXAn1eN1XQGrfY65TfLe5STJcfsCQozqyb8T",
+  "ticker": "LOVE",
+  "rewardAmount": {
+    "tier5": 2.07,
+    "_id": {
+      "$oid": "66ca474aff0c8619c5f1379f"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 10.34,
+    "tier8": 20.68
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.0002234469515649002,
+  "url": "https://birdeye.so/token/4QQV4LQUUXAn1eN1XQGrfY65TfLe5STJcfsCQozqyb8T?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e91963432dd2e401ae59f"
+  },
+  "index": 8,
+  "ca": "BoisYJqhMhgpD5291J6HRC3u1jeDkF8uSLyFy3fKb5o5",
+  "ticker": "LIQQ",
+  "rewardAmount": {
+    "tier5": 10.66,
+    "_id": {
+      "$oid": "66ca4739ff0c8619c5f1379a"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 53.3,
+    "tier8": 106.6
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.00022159596521595674,
+  "url": "https://birdeye.so/token/BoisYJqhMhgpD5291J6HRC3u1jeDkF8uSLyFy3fKb5o5?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ea5682dd0e4c14ab17b3f"
+  },
+  "index": 9,
+  "ca": "DE8NNksD5m3Kd4ohJAzTwJHLss9zbXdNUegEoL4QxD4C",
+  "ticker": "DUCKY",
+  "rewardAmount": {
+    "tier5": 0.12,
+    "_id": {
+      "$oid": "66ca4613ff0c8619c5f13716"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 0.6,
+    "tier8": 1.2
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.002244888309172655,
+  "url": "https://birdeye.so/token/DE8NNksD5m3Kd4ohJAzTwJHLss9zbXdNUegEoL4QxD4C?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ec7ca2dd0e4c14ab17bfd"
+  },
+  "index": 12,
+  "ca": "E99fN4tCRb1tQphXK1DU7prXji6hMzxETyPNJro19Fwz",
+  "ticker": "SOLCAT",
+  "rewardAmount": {
+    "tier5": 0.062,
+    "_id": {
+      "$oid": "66ca4832ff0c8619c5f13808"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 0.308,
+    "tier8": 0.616
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.011894558571628458,
+  "url": "https://birdeye.so/token/E99fN4tCRb1tQphXK1DU7prXji6hMzxETyPNJro19Fwz?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ec80c2dd0e4c14ab17c08"
+  },
+  "index": 10,
+  "ca": "xABfKiG2KCHi6keTeLycW1iK7B52wJmchSWXu3YrsDp",
+  "ticker": "DONK",
+  "rewardAmount": {
+    "tier5": 780000,
+    "_id": {
+      "$oid": "66ca45f8ff0c8619c5f13707"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 3906666,
+    "tier8": 7806666
+  },
+  "boosted": true,
+  "active": true,
+  "price": 3.3046517868381687e-10,
+  "url": "https://birdeye.so/token/xABfKiG2KCHi6keTeLycW1iK7B52wJmchSWXu3YrsDp?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ec8562dd0e4c14ab17c10"
+  },
+  "index": 11,
+  "ca": "52DfsNknorxogkjqecCTT3Vk2pUwZ3eMnsYKVm4z3yWy",
+  "ticker": "GER",
+  "rewardAmount": {
+    "tier5": 1.17,
+    "_id": {
+      "$oid": "66ca465aff0c8619c5f13739"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 5.86,
+    "tier8": 11.71
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.000042069676132509166,
+  "url": "https://birdeye.so/token/52DfsNknorxogkjqecCTT3Vk2pUwZ3eMnsYKVm4z3yWy?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2054a97cad1dbf272a489"
+  },
+  "index": 13,
+  "ca": "wikkR42C9DC4KukAQXcZESnYcRcrQXPEYULk1qpcgeK",
+  "ticker": "WIK",
+  "rewardAmount": {
+    "tier5": 3.7,
+    "_id": {
+      "$oid": "66ca488eff0c8619c5f13831"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 18.49,
+    "tier8": 36.98
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.00014771170409901672,
+  "url": "https://birdeye.so/token/wikkR42C9DC4KukAQXcZESnYcRcrQXPEYULk1qpcgeK?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a207d397cad1dbf272a497"
+  },
+  "index": 14,
+  "ca": "3meWn4683ng7FgLVJJB2bYPaNSoqhWdritNdkd4Aw1aj",
+  "ticker": "BUB",
+  "rewardAmount": {
+    "tier5": 0.296,
+    "_id": {
+      "$oid": "66ca4597ff0c8619c5f136df"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 1.48,
+    "tier8": 2.96
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.000052105004731737514,
+  "url": "https://birdeye.so/token/3meWn4683ng7FgLVJJB2bYPaNSoqhWdritNdkd4Aw1aj?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2088a97cad1dbf272a49f"
+  },
+  "index": 15,
+  "ca": "8FA3TPf84h9gEZAxDhiLkMN4vvZcdEUZxmGadbo12auh",
+  "ticker": "SCALES",
+  "rewardAmount": {
+    "tier5": 42374,
+    "_id": {
+      "$oid": "66ca47fdff0c8619c5f137f4"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 211871,
+    "tier8": 423742
+  },
+  "boosted": true,
+  "active": true,
+  "price": 1.1849528834962273e-8,
+  "url": "https://birdeye.so/token/8FA3TPf84h9gEZAxDhiLkMN4vvZcdEUZxmGadbo12auh?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2108b97cad1dbf272a4bd"
+  },
+  "index": 16,
+  "ca": "BavuJ8bntC79A8aHTxQi1EUhcCnqvEU8KSBE4sVCAaHc",
+  "ticker": "DOUG",
+  "rewardAmount": {
+    "tier5": 2.55,
+    "_id": {
+      "$oid": "66ca4603ff0c8619c5f1370c"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 12.76,
+    "tier8": 25.52
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.001236296774342288,
+  "url": "https://birdeye.so/token/BavuJ8bntC79A8aHTxQi1EUhcCnqvEU8KSBE4sVCAaHc?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2110997cad1dbf272a4c7"
+  },
+  "index": 17,
+  "ca": "5NHd3MsP6dXi9r1saPkeB2DoZyXLvPiqv4n9J54Cpump",
+  "ticker": "DANNY",
+  "rewardAmount": {
+    "tier5": 2.33,
+    "_id": {
+      "$oid": "66ca45e4ff0c8619c5f136fd"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 11.63,
+    "tier8": 23.27
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.0018623351902909051,
+  "url": "https://birdeye.so/token/5NHd3MsP6dXi9r1saPkeB2DoZyXLvPiqv4n9J54Cpump?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2124497cad1dbf272a4d2"
+  },
+  "index": 18,
+  "ca": "madHpjRn6bd8t78Rsy7NuSuNwWa2HU8ByPobZprHbHv",
+  "ticker": "MAD",
+  "rewardAmount": {
+    "tier5": 582,
+    "_id": {
+      "$oid": "66ca475fff0c8619c5f137a4"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 2911,
+    "tier8": 5822
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.000009740470534129084,
+  "url": "https://birdeye.so/token/madHpjRn6bd8t78Rsy7NuSuNwWa2HU8ByPobZprHbHv?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a212be97cad1dbf272a4e2"
+  },
+  "index": 19,
+  "ca": "236kS8hYQbtyQPiR6LF3XH7pAiSu1L5YoFQQVXbRpump",
+  "ticker": "DUST",
+  "rewardAmount": {
+    "tier5": 14,
+    "_id": {
+      "$oid": "66ca4627ff0c8619c5f13720"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 71,
+    "tier8": 142
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.000004912845734398864,
+  "url": "https://birdeye.so/token/236kS8hYQbtyQPiR6LF3XH7pAiSu1L5YoFQQVXbRpump?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2141497cad1dbf272a4f5"
+  },
+  "index": 20,
+  "ca": "5o817YNoR97F1h5suzBghwc8dP53oureRuFbgJiaCFuZ",
+  "ticker": "BEAR",
+  "rewardAmount": {
+    "tier5": 293.059,
+    "_id": {
+      "$oid": "66bc51534857e778003829e8"
+    }
+  },
+  "boosted": false,
+  "active": false,
+  "price": 0.0000015973685135339763,
+  "url": "https://birdeye.so/token/5o817YNoR97F1h5suzBghwc8dP53oureRuFbgJiaCFuZ?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2154197cad1dbf272a502"
+  },
+  "index": 21,
+  "ca": "sPiKEYAqoaGYYBAnPxro8NLSYLu93sr56n352jJRLN5",
+  "ticker": "SPIKE",
+  "rewardAmount": {
+    "tier5": 0.24,
+    "_id": {
+      "$oid": "66ca4846ff0c8619c5f13812"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 0.80133,
+    "tier8": 1.6
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.00007705816499056393,
+  "url": "https://birdeye.so/token/sPiKEYAqoaGYYBAnPxro8NLSYLu93sr56n352jJRLN5?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2155d97cad1dbf272a508"
+  },
+  "index": 22,
+  "ca": "GtDZKAqvMZMnti46ZewMiXCa4oXF4bZxwQPoKzXPFxZn",
+  "ticker": "NUB",
+  "rewardAmount": {
+    "tier5": 0.17,
+    "_id": {
+      "$oid": "66ca47a3ff0c8619c5f137d1"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 0.87,
+    "tier8": 1.73
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.009853922962929971,
+  "url": "https://birdeye.so/token/GtDZKAqvMZMnti46ZewMiXCa4oXF4bZxwQPoKzXPFxZn?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2159a97cad1dbf272a50e"
+  },
+  "index": 23,
+  "ca": "12KLamRC792UeJCWVTTAwYML4GwXXR9FBgt6Us1oHBW2",
+  "ticker": "JEB",
+  "rewardAmount": {
+    "tier5": 2.97,
+    "_id": {
+      "$oid": "66ca4702ff0c8619c5f1377c"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 14.83,
+    "tier8": 29.67
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.0005477126016241873,
+  "url": "https://birdeye.so/token/12KLamRC792UeJCWVTTAwYML4GwXXR9FBgt6Us1oHBW2?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a215b997cad1dbf272a514"
+  },
+  "index": 24,
+  "ca": "5LafQUrVco6o7KMz42eqVEJ9LW31StPyGjeeu5sKoMtA",
+  "ticker": "MUMU",
+  "rewardAmount": {
+    "tier5": 370,
+    "_id": {
+      "$oid": "66ca479cff0c8619c5f137cc"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 1850,
+    "tier8": 3700
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.00003459916654665782,
+  "url": "https://birdeye.so/token/5LafQUrVco6o7KMz42eqVEJ9LW31StPyGjeeu5sKoMtA?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a215e697cad1dbf272a51a"
+  },
+  "index": 25,
+  "ca": "EVDQN4P1YTTD1Y3eLBDBoALWnR4aMBC9y2xUYCrbGbuy",
+  "ticker": "MOCHICAT",
+  "rewardAmount": {
+    "tier5": 1.9,
+    "_id": {
+      "$oid": "66ca4786ff0c8619c5f137bd"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 9.55,
+    "tier8": 20
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.00009369572581789467,
+  "url": "https://birdeye.so/token/EVDQN4P1YTTD1Y3eLBDBoALWnR4aMBC9y2xUYCrbGbuy?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2161c97cad1dbf272a520"
+  },
+  "index": 26,
+  "ca": "3krWsXrweUbpsDJ9NKiwzNJSxLQKdPJNGzeEU5MZKkrb",
+  "ticker": "DLORD",
+  "rewardAmount": {
+    "tier5": 0.405,
+    "_id": {
+      "$oid": "66ca45edff0c8619c5f13702"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 2.03,
+    "tier8": 4.06
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.000045566692312517776,
+  "url": "https://birdeye.so/token/3krWsXrweUbpsDJ9NKiwzNJSxLQKdPJNGzeEU5MZKkrb?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2164297cad1dbf272a526"
+  },
+  "index": 27,
+  "ca": "9xYeZDHEwyuqJmqrTourbFRaxN2qhkYesnz3iQ3FPz4r",
+  "ticker": "ELMNT",
+  "rewardAmount": {
+    "tier5": 24.69,
+    "_id": {
+      "$oid": "66ca4632ff0c8619c5f13725"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 123.46,
+    "tier8": 246.92
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.000018591364047579932,
+  "url": "https://birdeye.so/token/9xYeZDHEwyuqJmqrTourbFRaxN2qhkYesnz3iQ3FPz4r?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a216bd97cad1dbf272a52c"
+  },
+  "index": 28,
+  "ca": "Dnb9dLSXxAarXVexehzeH8W8nFmLMNJSuGoaddZSwtog",
+  "ticker": "COK",
+  "rewardAmount": {
+    "tier5": 1011,
+    "_id": {
+      "$oid": "66ca45baff0c8619c5f136e9"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 5055.19,
+    "tier8": 10110
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.0000010670982963259591,
+  "url": "https://birdeye.so/token/Dnb9dLSXxAarXVexehzeH8W8nFmLMNJSuGoaddZSwtog?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2171797cad1dbf272a534"
+  },
+  "index": 29,
+  "ca": "FoAnSCG6CcqTq2rsTi58yyYBNk1HgsbLzS6b1kTP2ACL",
+  "ticker": "GOTTI",
+  "rewardAmount": {
+    "tier5": 0.000015,
+    "_id": {
+      "$oid": "66ca4689ff0c8619c5f13757"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 0.00007,
+    "tier8": 0.00014666
+  },
+  "boosted": true,
+  "active": true,
+  "price": 323.56705041814433,
+  "url": "https://birdeye.so/token/FoAnSCG6CcqTq2rsTi58yyYBNk1HgsbLzS6b1kTP2ACL?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2174f97cad1dbf272a53a"
+  },
+  "index": 30,
+  "ca": "F6ExBzKdLRcJkCAknQgfbhRXX78EhqoNxPnegJWPpump",
+  "ticker": "BRETTGOLD",
+  "rewardAmount": {
+    "tier5": 1.75,
+    "_id": {
+      "$oid": "66ca458cff0c8619c5f136da"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 8.75,
+    "tier8": 17.51
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.0004728990363055443,
+  "url": "https://birdeye.so/token/F6ExBzKdLRcJkCAknQgfbhRXX78EhqoNxPnegJWPpump?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2177597cad1dbf272a540"
+  },
+  "index": 31,
+  "ca": "32h846XXTSWGUaaKHMC5b2e39n1nwJD6UtDBppX5p4E9",
+  "ticker": "YES",
+  "rewardAmount": {
+    "tier5": 1.218,
+    "_id": {
+      "$oid": "66ca48aaff0c8619c5f1383b"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 6.09,
+    "tier8": 12.18
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.00044055485794974506,
+  "url": "https://birdeye.so/token/32h846XXTSWGUaaKHMC5b2e39n1nwJD6UtDBppX5p4E9?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a217aa97cad1dbf272a546"
+  },
+  "index": 32,
+  "ca": "HLptm5e6rTgh4EKgDpYFrnRHbjpkMyVdEeREEa2G7rf9",
+  "ticker": "DUKO",
+  "rewardAmount": {
+    "tier5": 1.17,
+    "_id": {
+      "$oid": "66ca461eff0c8619c5f1371b"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 5.85,
+    "tier8": 12
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.001260761272098259,
+  "url": "https://birdeye.so/token/HLptm5e6rTgh4EKgDpYFrnRHbjpkMyVdEeREEa2G7rf9?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a217e697cad1dbf272a54c"
+  },
+  "index": 33,
+  "ca": "MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5",
+  "ticker": "MEW",
+  "rewardAmount": {
+    "tier5": 1.36,
+    "_id": {
+      "$oid": "66ca4770ff0c8619c5f137ae"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 6.8,
+    "tier8": 13.6
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.004105720978149735,
+  "url": "https://birdeye.so/token/MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2181497cad1dbf272a552"
+  },
+  "index": 34,
+  "ca": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
+  "ticker": "GMT",
+  "rewardAmount": {
+    "tier5": 0.016,
+    "_id": {
+      "$oid": "66ca4663ff0c8619c5f1373e"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 0.08,
+    "tier8": 0.16
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.11347286111180148,
+  "url": "https://birdeye.so/token/7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2183b97cad1dbf272a558"
+  },
+  "index": 35,
+  "ca": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
+  "ticker": "SLERF",
+  "rewardAmount": {
+    "tier5": 0.012,
+    "_id": {
+      "$oid": "66ca4807ff0c8619c5f137f9"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 0.06,
+    "tier8": 0.12
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.11347286111180148,
+  "url": "https://birdeye.so/token/7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a218c197cad1dbf272a563"
+  },
+  "index": 36,
+  "ca": "8odnqwCqNVQ4UrYmYgkWPuedBr3yEMWY2ZBhtNW7jrCu",
+  "ticker": "MIGO",
+  "rewardAmount": {
+    "tier5": 8.4,
+    "_id": {
+      "$oid": "66ca4778ff0c8619c5f137b3"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 42.26,
+    "tier8": 84.52
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.00003410217965494671,
+  "url": "https://birdeye.so/token/8odnqwCqNVQ4UrYmYgkWPuedBr3yEMWY2ZBhtNW7jrCu?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2197c97cad1dbf272a569"
+  },
+  "index": 37,
+  "ca": "Av6qVigkb7USQyPXJkUvAEm4f599WTRvd75PUWBA9eNm",
+  "ticker": "COST",
+  "rewardAmount": {
+    "tier5": 0.21,
+    "_id": {
+      "$oid": "66ca45cbff0c8619c5f136f3"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 1,
+    "tier8": 2
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.0037101965356119647,
+  "url": "https://birdeye.so/token/Av6qVigkb7USQyPXJkUvAEm4f599WTRvd75PUWBA9eNm?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a219fd97cad1dbf272a56f"
+  },
+  "index": 38,
+  "ca": "3TWgDvYBL2YPET2LxnWAwsMeoA8aL4DutNuwat2pKCjC",
+  "ticker": "KHAI",
+  "rewardAmount": {
+    "tier5": 0.0043,
+    "_id": {
+      "$oid": "66ca4720ff0c8619c5f1378b"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 0.02147,
+    "tier8": 0.0429
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.2487116811831869,
+  "url": "https://birdeye.so/token/3TWgDvYBL2YPET2LxnWAwsMeoA8aL4DutNuwat2pKCjC?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a21a2a97cad1dbf272a575"
+  },
+  "index": 39,
+  "ca": "Faf89929Ni9fbg4gmVZTca7eW6NFg877Jqn6MizT3Gvw",
+  "ticker": "$WOLF",
+  "rewardAmount": {
+    "tier5": 0.992,
+    "_id": {
+      "$oid": "66ca43a5ff0c8619c5f136a2"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 4.96,
+    "tier8": 9.916
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.0014690395746771183,
+  "url": "https://birdeye.so/token/Faf89929Ni9fbg4gmVZTca7eW6NFg877Jqn6MizT3Gvw?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a21a8997cad1dbf272a57b"
+  },
+  "index": 40,
+  "ca": "9n2YPn8RMJi7AFcmrtkbkpCB9paUmModzZ587V564Mk9",
+  "ticker": "MAO",
+  "rewardAmount": {
+    "tier5": 5.54,
+    "_id": {
+      "$oid": "66ca4768ff0c8619c5f137a9"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 28,
+    "tier8": 55.5
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.00006542136707730873,
+  "url": "https://birdeye.so/token/9n2YPn8RMJi7AFcmrtkbkpCB9paUmModzZ587V564Mk9?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2b7a997cad1dbf272a682"
+  },
+  "index": 41,
+  "ca": "WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk",
+  "ticker": "WEN",
+  "rewardAmount": {
+    "tier5": 74.4,
+    "_id": {
+      "$oid": "66ca4887ff0c8619c5f1382c"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 432,
+    "tier8": 780
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.00008297369385898135,
+  "url": "https://birdeye.so/token/WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2b7ff97cad1dbf272a688"
+  },
+  "index": 42,
+  "ca": "3BgwJ8b7b9hHX4sgfZ2KJhv9496CoVfsMK2YePevsBRw",
+  "ticker": "EPIK",
+  "rewardAmount": {
+    "tier5": 0.219,
+    "_id": {
+      "$oid": "66ca463cff0c8619c5f1372a"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 1.1,
+    "tier8": 2.19
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.0073467235636480565,
+  "url": "https://birdeye.so/token/3BgwJ8b7b9hHX4sgfZ2KJhv9496CoVfsMK2YePevsBRw?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a369476d00543e2c008f23"
+  },
+  "index": 43,
+  "ca": "ZEUS1aR7aX8DFFJf5QjWj2ftDDdNTroMNGo8YoQm3Gq",
+  "ticker": "ZEUS",
+  "rewardAmount": {
+    "tier5": 0.006,
+    "_id": {
+      "$oid": "66ca48b1ff0c8619c5f13840"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 0.03,
+    "tier8": 0.06
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.18288596695595866,
+  "url": "https://birdeye.so/token/ZEUS1aR7aX8DFFJf5QjWj2ftDDdNTroMNGo8YoQm3Gq?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a369e66d00543e2c008f2c"
+  },
+  "index": 44,
+  "ca": "4WRST6Q2yyDP1p7Bqszg8PAAoj8j69cj7QY4QLn5Aq3o",
+  "ticker": "ANTC",
+  "rewardAmount": {
+    "tier5": 0.09,
+    "_id": {
+      "$oid": "66ca43bcff0c8619c5f136a7"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 0.45,
+    "tier8": 0.9
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.0033442326190533333,
+  "url": "https://birdeye.so/token/4WRST6Q2yyDP1p7Bqszg8PAAoj8j69cj7QY4QLn5Aq3o?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36a176d00543e2c008f35"
+  },
+  "index": 45,
+  "ca": "4TUNzcgp2fPD48fcW4seRjyqyDZMrPj4ZubnXFEsKeYk",
+  "ticker": "PRNT",
+  "rewardAmount": {
+    "tier5": 13.6,
+    "_id": {
+      "$oid": "66ca47bfff0c8619c5f137e0"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 68,
+    "tier8": 136
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.000060635853706652915,
+  "url": "https://birdeye.so/token/4TUNzcgp2fPD48fcW4seRjyqyDZMrPj4ZubnXFEsKeYk?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36a596d00543e2c008f3e"
+  },
+  "index": 46,
+  "ca": "EyVn9ZW86b7FMVThMPjswEjac3YqrLWkzeVZn3nRwt5c",
+  "ticker": "KABAL",
+  "rewardAmount": {
+    "tier5": 3.767,
+    "_id": {
+      "$oid": "66ca4711ff0c8619c5f13786"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 18.835,
+    "tier8": 37.67
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.000012124493801561027,
+  "url": "https://birdeye.so/token/EyVn9ZW86b7FMVThMPjswEjac3YqrLWkzeVZn3nRwt5c?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36a986d00543e2c008f47"
+  },
+  "index": 47,
+  "ca": "wA1MArtTmL1yYtweBjyHZZdteHQRd5fgwsUKx7iiqKU",
+  "ticker": "POW",
+  "rewardAmount": {
+    "tier5": 41.4,
+    "_id": {
+      "$oid": "66ca47b4ff0c8619c5f137db"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 207.1,
+    "tier8": 414.2
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.000004109317159398356,
+  "url": "https://birdeye.so/token/wA1MArtTmL1yYtweBjyHZZdteHQRd5fgwsUKx7iiqKU?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36b516d00543e2c008f64"
+  },
+  "index": 48,
+  "ca": "8EHC2gfTLDb2eGQfjm17mVNLWPGRc9YVD75bepZ2nZJa",
+  "ticker": "$DICKI",
+  "rewardAmount": {
+    "tier5": 0.0237,
+    "_id": {
+      "$oid": "66bc4f7d4857e778003829c3"
+    }
+  },
+  "boosted": true,
+  "active": false,
+  "price": 0.009442860325163482,
+  "url": "https://birdeye.so/token/8EHC2gfTLDb2eGQfjm17mVNLWPGRc9YVD75bepZ2nZJa?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36baa6d00543e2c008f72"
+  },
+  "index": 49,
+  "ca": "8npbXTu4oTNw3xrMGY1aTm4CtB7cMPVuRUCh3Wqj3fSW",
+  "ticker": "STACKS",
+  "rewardAmount": {
+    "tier5": 0.632,
+    "_id": {
+      "$oid": "66ca484fff0c8619c5f13817"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 3.164,
+    "tier8": 6.328
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.0006729280306386699,
+  "url": "https://birdeye.so/token/8npbXTu4oTNw3xrMGY1aTm4CtB7cMPVuRUCh3Wqj3fSW?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36bf76d00543e2c008f7b"
+  },
+  "index": 50,
+  "ca": "FV56CmR7fhEyPkymKfmviKV48uPo51ti9kAxssQqTDLu",
+  "ticker": "WALTER",
+  "rewardAmount": {
+    "tier5": 0.278,
+    "_id": {
+      "$oid": "66ca4880ff0c8619c5f13827"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 1.388,
+    "tier8": 2.777
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.0014153048056462128,
+  "url": "https://birdeye.so/token/FV56CmR7fhEyPkymKfmviKV48uPo51ti9kAxssQqTDLu?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36c216d00543e2c008f81"
+  },
+  "index": 51,
+  "ca": "AVLhahDcDQ4m4vHM4ug63oh7xc8Jtk49Dm5hoe9Sazqr",
+  "ticker": "SOLAMA",
+  "rewardAmount": {
+    "tier5": 0.136,
+    "_id": {
+      "$oid": "66ca4829ff0c8619c5f13803"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 0.68,
+    "tier8": 1.36
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.009458858536459067,
+  "url": "https://birdeye.so/token/AVLhahDcDQ4m4vHM4ug63oh7xc8Jtk49Dm5hoe9Sazqr?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36c766d00543e2c008f8d"
+  },
+  "index": 52,
+  "ca": "moonskJwNmZiwkqH79S7b1UezGTaWQGEUbFkVqH3Vwq",
+  "ticker": "MOON",
+  "rewardAmount": {
+    "tier5": 863.7,
+    "_id": {
+      "$oid": "66ca4795ff0c8619c5f137c7"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 4318.4,
+    "tier8": 8636
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.0000016540614555205492,
+  "url": "https://birdeye.so/token/moonskJwNmZiwkqH79S7b1UezGTaWQGEUbFkVqH3Vwq?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36cb06d00543e2c008f96"
+  },
+  "index": 53,
+  "ca": "FuLH3f9TPxiLNojPBZxfaT5Rb5VFfia8hMzLo9e9c6CG",
+  "ticker": "MOOCAT",
+  "rewardAmount": {
+    "tier5": 2.16,
+    "_id": {
+      "$oid": "66ca478dff0c8619c5f137c2"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 10.82,
+    "tier8": 21.65
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.0006709810625603103,
+  "url": "https://birdeye.so/token/FuLH3f9TPxiLNojPBZxfaT5Rb5VFfia8hMzLo9e9c6CG?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36cde6d00543e2c008f9f"
+  },
+  "index": 54,
+  "ca": "mmonechkLNdUxDbvP9Yntwo459QfUmqDdzV95DNvnr6",
+  "ticker": "MUTANT",
+  "rewardAmount": {
+    "tier5": 0.3,
+    "_id": {
+      "$oid": "66bc6dac4857e77800382b0b"
+    }
+  },
+  "boosted": true,
+  "active": false,
+  "price": 0.006939338620411605,
+  "url": "https://birdeye.so/token/mmonechkLNdUxDbvP9Yntwo459QfUmqDdzV95DNvnr6?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36d2e6d00543e2c008faa"
+  },
+  "index": 55,
+  "ca": "A65edjLpS8xh9vpqfdTiTVwobxRGa8Fzbdi9BxduaAhr",
+  "ticker": "WTF",
+  "rewardAmount": {
+    "tier5": 34.82,
+    "_id": {
+      "$oid": "66ca48a1ff0c8619c5f13836"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 174.1,
+    "tier8": 348
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.00011848215614387029,
+  "url": "https://birdeye.so/token/A65edjLpS8xh9vpqfdTiTVwobxRGa8Fzbdi9BxduaAhr?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36d6b6d00543e2c008fb5"
+  },
+  "index": 56,
+  "ca": "AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP",
+  "ticker": "AURY",
+  "rewardAmount": {
+    "tier5": 0.0074,
+    "_id": {
+      "$oid": "66ca44c1ff0c8619c5f136ac"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 0.04,
+    "tier8": 0.07
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.24155578602749347,
+  "url": "https://birdeye.so/token/AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36dab6d00543e2c008fbe"
+  },
+  "index": 57,
+  "ca": "5t4EVfkb5QU8NZXmTzcSK2bQsNWUr2HL64rRb8i6wpat",
+  "ticker": "SPHYNX",
+  "rewardAmount": {
+    "tier5": 0.315,
+    "_id": {
+      "$oid": "66ca483cff0c8619c5f1380d"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 1.04,
+    "tier8": 2.09
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.0006302411973113529,
+  "url": "https://birdeye.so/token/5t4EVfkb5QU8NZXmTzcSK2bQsNWUr2HL64rRb8i6wpat?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36dd96d00543e2c008fc7"
+  },
+  "index": 58,
+  "ca": "3dgCCb15HMQSA4Pn3Tfii5vRk7aRqTH95LJjxzsG2Mug",
+  "ticker": "HXD",
+  "rewardAmount": {
+    "tier5": 0.04,
+    "_id": {
+      "$oid": "66ca46faff0c8619c5f13777"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 0.2,
+    "tier8": 0.43
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.020957712936310657,
+  "url": "https://birdeye.so/token/3dgCCb15HMQSA4Pn3Tfii5vRk7aRqTH95LJjxzsG2Mug?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36e1c6d00543e2c008fd0"
+  },
+  "index": 59,
+  "ca": "CoRkC3r6MqYuTeMRc7D8JJF7UiUyFWurXGpYy1xQATNq",
+  "ticker": "FLUFFYS",
+  "rewardAmount": {
+    "tier5": 0.352667,
+    "_id": {
+      "$oid": "66ca4648ff0c8619c5f1372f"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 1.76,
+    "tier8": 3.53
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.0012557893354911043,
+  "url": "https://birdeye.so/token/CoRkC3r6MqYuTeMRc7D8JJF7UiUyFWurXGpYy1xQATNq?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36e4d6d00543e2c008fd9"
+  },
+  "index": 60,
+  "ca": "2oMYg3aPHjFjxg1PRYLwvdRQayexUS8N4CjLXJ64GkLq",
+  "ticker": "BOJI",
+  "rewardAmount": {
+    "tier5": 0.6045,
+    "_id": {
+      "$oid": "66bc702d4857e77800382b6f"
+    }
+  },
+  "boosted": true,
+  "active": false,
+  "price": 0.006414616293684375,
+  "url": "https://birdeye.so/token/2oMYg3aPHjFjxg1PRYLwvdRQayexUS8N4CjLXJ64GkLq?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36e7c6d00543e2c008fe2"
+  },
+  "index": 61,
+  "ca": "CFCidcK2cKmDfpVDJzVqKMRA485JRnvcQ1kfPiKwK33g",
+  "ticker": "RANDY",
+  "rewardAmount": {
+    "tier5": 34.5,
+    "_id": {
+      "$oid": "66a4bf5c36c4be70607d8621"
+    }
+  },
+  "boosted": true,
+  "active": false,
+  "price": 0.000020843481934978714,
+  "url": "https://birdeye.so/token/CFCidcK2cKmDfpVDJzVqKMRA485JRnvcQ1kfPiKwK33g?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36ecf6d00543e2c008feb"
+  },
+  "index": 62,
+  "ca": "DM3Y4R7n1HGhP9AkNT6Ex4w1qQTpgq1TyujrMDX11FMT",
+  "ticker": "BASC",
+  "rewardAmount": {
+    "tier5": 0.013,
+    "_id": {
+      "$oid": "66ca44cdff0c8619c5f136b1"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 0.06,
+    "tier8": 0.13
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.3668396196138967,
+  "url": "https://birdeye.so/token/DM3Y4R7n1HGhP9AkNT6Ex4w1qQTpgq1TyujrMDX11FMT?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36f196d00543e2c008ff4"
+  },
+  "index": 63,
+  "ca": "BoA11spg3qUqAiqdxXvy3ueSNjKp2k4imYxw83e5WFPy",
+  "ticker": "DRAC",
+  "rewardAmount": {
+    "tier5": 375,
+    "_id": {
+      "$oid": "66ca460bff0c8619c5f13711"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 1875,
+    "tier8": 3.75
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.0000020678512594845825,
+  "url": "https://birdeye.so/token/BoA11spg3qUqAiqdxXvy3ueSNjKp2k4imYxw83e5WFPy?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36f4e6d00543e2c008ffd"
+  },
+  "index": 64,
+  "ca": "coqRkaaKeUygDPhuS3mrmrj6DiHjeQJc2rFbT2YfxWn",
+  "ticker": "BCOQ",
+  "rewardAmount": {
+    "tier5": 133000,
+    "_id": {
+      "$oid": "66ca44f4ff0c8619c5f136b6"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 665000,
+    "tier8": 1333333
+  },
+  "boosted": true,
+  "active": true,
+  "price": 1.2745185159764152e-8,
+  "url": "https://birdeye.so/token/coqRkaaKeUygDPhuS3mrmrj6DiHjeQJc2rFbT2YfxWn?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36f7f6d00543e2c009006"
+  },
+  "index": 65,
+  "ca": "7p6RjGNZ7HLHpfTo6nh21XYw4CZgxXLQPzKXG72pNd2y",
+  "ticker": "CIGGS",
+  "rewardAmount": {
+    "tier5": 2.445333,
+    "_id": {
+      "$oid": "66ca45aaff0c8619c5f136e4"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 12.23,
+    "tier8": 24.46
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.00022170294379169058,
+  "url": "https://birdeye.so/token/7p6RjGNZ7HLHpfTo6nh21XYw4CZgxXLQPzKXG72pNd2y?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36fb96d00543e2c00900f"
+  },
+  "index": 66,
+  "ca": "A3eME5CetyZPBoWbRUwY3tSe25S6tb18ba9ZPbWk9eFJ",
+  "ticker": "PENG",
+  "rewardAmount": {
+    "tier5": 0.02,
+    "_id": {
+      "$oid": "66ca47adff0c8619c5f137d6"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 0.1,
+    "tier8": 0.2
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.11950102626842558,
+  "url": "https://birdeye.so/token/A3eME5CetyZPBoWbRUwY3tSe25S6tb18ba9ZPbWk9eFJ?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a36fe86d00543e2c009018"
+  },
+  "index": 67,
+  "ca": "9P32yqucXfZnDoXmmJNzBpqXQgfou4tA4sB1RaQh9cYw",
+  "ticker": "JUNGLE",
+  "rewardAmount": {
+    "tier5": 23,
+    "_id": {
+      "$oid": "66ca4709ff0c8619c5f13781"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 115,
+    "tier8": 230
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.000008646635287800915,
+  "url": "https://birdeye.so/token/9P32yqucXfZnDoXmmJNzBpqXQgfou4tA4sB1RaQh9cYw?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a370166d00543e2c009021"
+  },
+  "index": 68,
+  "ca": "HSwR3tZuxQKq8ddz9YxR4BX65Znm6MNdWGURw3x5FJQi",
+  "ticker": "HAMWTR",
+  "rewardAmount": {
+    "tier5": 3.476,
+    "_id": {
+      "$oid": "66ca46f1ff0c8619c5f13772"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 17.38,
+    "tier8": 52.14
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.00002016982120746117,
+  "url": "https://birdeye.so/token/HSwR3tZuxQKq8ddz9YxR4BX65Znm6MNdWGURw3x5FJQi?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a370436d00543e2c00902a"
+  },
+  "index": 69,
+  "ca": "6wUUYjt3gFT6QFQTTsGtP8GGN4VfmZmAjfsbdaCmGX9P",
+  "ticker": "DANK",
+  "rewardAmount": {
+    "tier5": 140,
+    "_id": {
+      "$oid": "66ca45d7ff0c8619c5f136f8"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 704.432,
+    "tier8": 1408
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.0000019006782441485509,
+  "url": "https://birdeye.so/token/6wUUYjt3gFT6QFQTTsGtP8GGN4VfmZmAjfsbdaCmGX9P?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a370906d00543e2c009033"
+  },
+  "index": 70,
+  "ca": "FGxJZFJyJksPxmyiR7G61XDRFp73etQEC35c5peL5PeU",
+  "ticker": "PULSR",
+  "rewardAmount": {
+    "tier5": 0.352666,
+    "_id": {
+      "$oid": "66ca42b5ff0c8619c5f13686"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 1.76,
+    "tier8": 3.53
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.0011041266013750333,
+  "url": "https://birdeye.so/token/FGxJZFJyJksPxmyiR7G61XDRFp73etQEC35c5peL5PeU?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4bfe636c4be70607d8624"
+  },
+  "index": 71,
+  "ca": "AZsHEMXd36Bj1EMNXhowJajpUXzrKcK57wW4ZGXVa7yR",
+  "ticker": "GUAC",
+  "rewardAmount": {
+    "tier5": 45000,
+    "_id": {
+      "$oid": "66bc580f4857e77800382a9e"
+    }
+  },
+  "boosted": false,
+  "active": false,
+  "price": 4.603718897429821e-8,
+  "url": "https://birdeye.so/token/AZsHEMXd36Bj1EMNXhowJajpUXzrKcK57wW4ZGXVa7yR?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a522c036c4be70607d87cf"
+  },
+  "index": 72,
+  "ca": "F4WUv643sJWAsGEsYtP5XErDFecHB7R2fguQSNiNB9Dg",
+  "ticker": "PUPPET",
+  "rewardAmount": {
+    "tier5": 0.51,
+    "_id": {
+      "$oid": "66ca47caff0c8619c5f137e5"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 2.54,
+    "tier8": 5.07
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.00001929863706320814,
+  "url": "https://birdeye.so/token/F4WUv643sJWAsGEsYtP5XErDFecHB7R2fguQSNiNB9Dg?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc4fd84857e778003829c6"
+  },
+  "index": 73,
+  "ca": "BgJW7U1u2RY5XJk9uYb5AqFRzjMtqE7pw3kaf9iw9Ntz",
+  "ticker": "$PELF",
+  "rewardAmount": {
+    "tier5": 18.59,
+    "_id": {
+      "$oid": "66ca4c10b0b45e95c9d0ca3a"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 92.96,
+    "tier8": 185.91
+  },
+  "boosted": false,
+  "active": true,
+  "price": 0.00013132327262383264,
+  "url": "https://birdeye.so/token/BgJW7U1u2RY5XJk9uYb5AqFRzjMtqE7pw3kaf9iw9Ntz?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc51064857e778003829d9"
+  },
+  "index": 74,
+  "ca": "5o817YNoR97F1h5suzBghwc8dP53oureRuFbgJiaCFuZ",
+  "ticker": "BILL",
+  "rewardAmount": {
+    "tier5": 293,
+    "_id": {
+      "$oid": "66ca4519ff0c8619c5f136c0"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 1465.3,
+    "tier8": 2930
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.0000015973685135339763,
+  "url": "https://birdeye.so/token/5o817YNoR97F1h5suzBghwc8dP53oureRuFbgJiaCFuZ?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc65914857e77800382ac0"
+  },
+  "index": 75,
+  "ca": "2Pp6ebUvEL9YRTauUTmGTwYZKRfyQXGM9jE4S8WPDtEy",
+  "ticker": "LAB",
+  "rewardAmount": {
+    "tier5": 0.64,
+    "_id": {
+      "$oid": "66ca4729ff0c8619c5f13790"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 3.22,
+    "tier8": 6.44
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.0022888102026157845,
+  "url": "https://birdeye.so/token/2Pp6ebUvEL9YRTauUTmGTwYZKRfyQXGM9jE4S8WPDtEy?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc6c5f4857e77800382ad2"
+  },
+  "index": 76,
+  "ca": "E5ZVeBMazQAYq4UEiSNRLxfMeRds9SKL31yPan7j5GJK",
+  "ticker": "LDZ",
+  "rewardAmount": {
+    "tier5": 1.63,
+    "_id": {
+      "$oid": "66ca4731ff0c8619c5f13795"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 8.16,
+    "tier8": 16.32
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.00208117035384609,
+  "url": "https://birdeye.so/token/E5ZVeBMazQAYq4UEiSNRLxfMeRds9SKL31yPan7j5GJK?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc6e6c4857e77800382b2e"
+  },
+  "index": 77,
+  "ca": "CraBDNXPbbJtfPKzmCnWt667pueqCEqSuWYaFNm8JSX8",
+  "ticker": "SNIBBU",
+  "rewardAmount": {
+    "tier5": 686,
+    "_id": {
+      "$oid": "66ca4815ff0c8619c5f137fe"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 3431,
+    "tier8": 6863
+  },
+  "boosted": true,
+  "active": true,
+  "price": 4.979795107979727e-7,
+  "url": "https://birdeye.so/token/CraBDNXPbbJtfPKzmCnWt667pueqCEqSuWYaFNm8JSX8?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc6f8b4857e77800382b48"
+  },
+  "index": 78,
+  "ca": "8twuNzMszqWeFbDErwtf4gw13E6MUS4Hsdx5mi3aqXAM",
+  "ticker": "SB",
+  "rewardAmount": {
+    "tier5": 0.000025,
+    "_id": {
+      "$oid": "66ca47f4ff0c8619c5f137ef"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 0.00011,
+    "tier8": 0.00022
+  },
+  "boosted": true,
+  "active": true,
+  "price": 77.36646744605493,
+  "url": "https://birdeye.so/token/8twuNzMszqWeFbDErwtf4gw13E6MUS4Hsdx5mi3aqXAM?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc707f4857e77800382b72"
+  },
+  "index": 79,
+  "ca": "G8Vy25NzjRmuQtnN35xF7j3X2Z1TrV39XijZu8Mg4w8n",
+  "ticker": "COOK",
+  "rewardAmount": {
+    "tier5": 1.3,
+    "_id": {
+      "$oid": "66ca45c1ff0c8619c5f136ee"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 6.49,
+    "tier8": 12.97
+  },
+  "boosted": false,
+  "active": true,
+  "price": 0.0016512728434260704,
+  "url": "https://birdeye.so/token/G8Vy25NzjRmuQtnN35xF7j3X2Z1TrV39XijZu8Mg4w8n?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bc710c4857e77800382b81"
+  },
+  "index": 80,
+  "ca": "2ubuHGFS4VJVxSEpvV3kDwz6JiuXdaAoGMwrwYC87tp8",
+  "ticker": "MILKBAG",
+  "rewardAmount": {
+    "tier5": 0.7,
+    "_id": {
+      "$oid": "66ca477fff0c8619c5f137b8"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 3.49,
+    "tier8": 6.99
+  },
+  "boosted": true,
+  "active": true,
+  "price": 0.0035309271455601205,
+  "url": "https://birdeye.so/token/2ubuHGFS4VJVxSEpvV3kDwz6JiuXdaAoGMwrwYC87tp8?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ca456aff0c8619c5f136cd"
+  },
+  "index": 81,
+  "ca": "8NNXWrWVctNw1UFeaBypffimTdcLCcD8XJzHvYsmgwpF",
+  "ticker": "BRAINLET",
+  "rewardAmount": {
+    "tier5": 0.2,
+    "_id": {
+      "$oid": "66ca457cff0c8619c5f136d5"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 0.99,
+    "tier8": 1.99
+  },
+  "boosted": false,
+  "active": true,
+  "price": 0.018574489490847,
+  "url": "https://birdeye.so/token/8NNXWrWVctNw1UFeaBypffimTdcLCcD8XJzHvYsmgwpF?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ca46bbff0c8619c5f1375f"
+  },
+  "index": 82,
+  "ca": "HACK8WdQNJdvBrKExA7tP7WAMaNKYugQ8H7qKSxRQrpy",
+  "ticker": "HACK",
+  "rewardAmount": {
+    "tier5": 2.54,
+    "_id": {
+      "$oid": "66ca46c7ff0c8619c5f13767"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 12.68,
+    "tier8": 25.35
+  },
+  "boosted": false,
+  "active": true,
+  "price": 0.0012420679072484514,
+  "url": "https://birdeye.so/token/HACK8WdQNJdvBrKExA7tP7WAMaNKYugQ8H7qKSxRQrpy?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ca46e5ff0c8619c5f1376a"
+  },
+  "index": 83,
+  "ca": "GzcgxeXQDM7qK8fN7fzQCWaSPiyCkmGpXzF8jiiTpump",
+  "ticker": "HALO",
+  "rewardAmount": {
+    "tier5": 3.1,
+    "_id": {
+      "$oid": "66ca46e5ff0c8619c5f1376b"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 15.48,
+    "tier8": 31
+  },
+  "boosted": false,
+  "active": true,
+  "price": 0.0018322528379736218,
+  "url": "https://birdeye.so/token/GzcgxeXQDM7qK8fN7fzQCWaSPiyCkmGpXzF8jiiTpump?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ca486eff0c8619c5f1381a"
+  },
+  "index": 84,
+  "ca": "Avr3NYAGNuraf2uSC1Zza8nga77CELoi3trFCH2Lpump",
+  "ticker": "T1500",
+  "rewardAmount": {
+    "tier5": 1.56,
+    "_id": {
+      "$oid": "66ca486eff0c8619c5f1381b"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier6": 0,
+    "tier7": 7.82,
+    "tier8": 15.63
+  },
+  "boosted": false,
+  "active": true,
+  "price": 0.0016569120068012954,
+  "url": "https://birdeye.so/token/Avr3NYAGNuraf2uSC1Zza8nga77CELoi3trFCH2Lpump?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cef0c0e7b2d3cb760554d3"
+  },
+  "index": 85,
+  "ca": "3xvLSHrLcM7246X1vu34cM9gNX741kQrzqj6T2HhLvXp",
+  "ticker": "COIN",
+  "rewardAmount": {
+    "tier8": 101.4,
+    "_id": {
+      "$oid": "66cef0c0e7b2d3cb760554d4"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier5": 10.14,
+    "tier6": 0,
+    "tier7": 50.7
+  },
+  "boosted": false,
+  "active": true,
+  "price": 0.0007656541450332676,
+  "url": "https://birdeye.so/token/3xvLSHrLcM7246X1vu34cM9gNX741kQrzqj6T2HhLvXp?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d81cddf4a40e32d2524531"
+  },
+  "index": 86,
+  "ca": "FiBSKnRpjNHChN1BANpr3dsVFQuuHhETMen4xUDgpump",
+  "ticker": "TOMMY",
+  "rewardAmount": {
+    "tier8": 35.49,
+    "_id": {
+      "$oid": "66d81cddf4a40e32d2524532"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier5": 3.55,
+    "tier6": 0,
+    "tier7": 17.75
+  },
+  "boosted": false,
+  "active": true,
+  "price": 0.00005712081775893868,
+  "url": "https://birdeye.so/token/FiBSKnRpjNHChN1BANpr3dsVFQuuHhETMen4xUDgpump?chain=solana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d95ed67dba8fdb3838f53f"
+  },
+  "index": 87,
+  "ca": "wzpeUomX2VNiswbyYMLqYsdN4nNFZSobNs5xuR7shit",
+  "ticker": "SHIT",
+  "rewardAmount": {
+    "tier8": 5.28,
+    "_id": {
+      "$oid": "66d95ed67dba8fdb3838f540"
+    },
+    "tier1": 0,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier5": 0.53,
+    "tier6": 0,
+    "tier7": 2.64
+  },
+  "boosted": false,
+  "active": true,
+  "price": 0.005690971172757774,
+  "url": "https://birdeye.so/token/wzpeUomX2VNiswbyYMLqYsdN4nNFZSobNs5xuR7shit?chain=solana",
+  "__v": 0
+}]
